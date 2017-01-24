@@ -16,7 +16,11 @@
         "runnerId": "webapprunner",
         "id": 7289975,
         "displayName": "Run index.html",
+<<<<<<< HEAD
+        "lastRunTimeStamp": 1485251846103
+=======
         "lastRunTimeStamp": 1485244324129
+>>>>>>> branch 'master' of https://github.com/hernesferrer/UI5Repository.git
       }
     }
   ]
